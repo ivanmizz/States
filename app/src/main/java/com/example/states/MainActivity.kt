@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
    // var data=getSharedPreferences("myData", MODE_PRIVATE)
     //var editdata = data.edit()
 
-
     private lateinit var binding: ActivityMainBinding
     lateinit var data:SharedPreferences
     lateinit var editdata: SharedPreferences.Editor
